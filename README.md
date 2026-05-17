@@ -1,4 +1,4 @@
-2...Magyar  27...Romana  54...English
+​Added multi-language documentation (Hungarian, Romanian, English).
 ====    Magyar   ====
 ESP32 Chint Okosmérő Adatgyűjtő és Vektoros Fázisanalizátor
 ​Ez egy ESP32 alapú, nagyteljesítményű adatgyűjtő (Datalogger) és vizualizációs rendszer, amelyet kifejezetten Chint DSU666-H (és kompatibilis) intelligens háromfázisú fogyasztásmérőkhöz fejlesztettem ki. A projekt különlegessége az élő, böngészőben futó vektoros fázisdiagram, amely azonnal mutatja a fáziseltolódásokat és a napelemes visszatermelést.
@@ -51,6 +51,7 @@ ESP32 Chint Smart Meter Datalogger și Analizor de Faze Vectoriale
 ​CS (Chip Select) -> GPIO 5
 ​💻 Versiune Software
 ​Versiunea stabilă curentă: v4.3 (Cu timp de rulare optimizat și ciclu de scriere pe SD separat).
+====   English   ====
 ESP32 Chint Smart Meter Datalogger & Vector Phasor Analyzer
 ​This is an ESP32-based high-performance datalogger and visualization system developed specifically for Chint DSU666-H (and compatible) smart three-phase energy meters. The highlight of this project is the live, browser-based vector phasor diagram that instantly displays phase shifts and solar power injection.
 ​🚀 Key Features
